@@ -41,4 +41,4 @@ Feature: Splunk REST API
     * print title
     * match title == "alert_actions"
 
-
+    # ------
